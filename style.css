@@ -1,3 +1,28 @@
+title {
+
+}
+
 body {
-    background: blue;
+    background-image: url("PA190760.JPG");
+    background-size: cover;
+    font-family: 'Courier New';
   }
+
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 38px;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  a:visited { 
+    text-decoration: none; 
+    color: white; 
+   }
+
+   a {
+    text-decoration: none;
+   }
